@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-ITERATIONS = 2
+ITERATIONS = 3
 ALPHA = 0.9
 
 
@@ -35,7 +35,7 @@ def draw(data: np.array, alpha: float = 1.0):
     _ = ax.voxels(
         data,
         facecolors=[0.0, 1.0, 0.0, alpha],
-        edgecolors='grey',
+        edgecolors=[0.0, 1.0, 0.0],
     )
     plt.show()
     print('done')
