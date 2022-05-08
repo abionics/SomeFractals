@@ -24,7 +24,7 @@ def mandelbrot_function(c: complex, iterations: int):
 
 @jit  # don't use default args with numba.jit
 def colorize_mandelbrot_set(left: complex, right: complex, iterations: int, resolution: int):
-    palette = color_palette('rocket_r', iterations)
+    palette = color_palette('nipy_spectral_r', iterations)
     xs = [left.real, right.real]
     xs.sort()
     x_min, x_max = xs
