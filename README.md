@@ -3,6 +3,15 @@
 Just a university exercise ^^
 
 
+## Mandelbrot Set
+
+![mandelbrot-set](mandelbrot_set/demo.png)
+
+* [Wiki](https://en.wikipedia.org/wiki/Mandelbrot_set)
+* [Binder online](https://mybinder.org/v2/gh/abionics/SomeFractals/HEAD?labpath=mandelbrot_set%2Fmandelbrot_set.ipynb)
+* [Jupyter](mandelbrot_set/mandelbrot_set.ipynb) and [Python](mandelbrot_set/mandelbrot_set.py) codes
+
+
 ## Menger Sponge
 
 ![menger-sponge](menger_sponge/demo.png)
@@ -19,14 +28,6 @@ Just a university exercise ^^
 * [Binder online](https://mybinder.org/v2/gh/abionics/SomeFractals/HEAD?labpath=duder_star%2Fduder_star.ipynb)
 * [Jupyter](duder_star/duder_star.ipynb) and [Python](duder_star/duder_star.py) codes
 
-
-## Mandelbrot Set
-
-![mandelbrot-set](mandelbrot_set/demo.png)
-
-* [Wiki](https://en.wikipedia.org/wiki/Mandelbrot_set)
-* [Binder online](https://mybinder.org/v2/gh/abionics/SomeFractals/HEAD?labpath=mandelbrot_set%2Fmandelbrot_set.ipynb)
-* [Jupyter](mandelbrot_set/mandelbrot_set.ipynb) and [Python](mandelbrot_set/mandelbrot_set.py) codes
 
 ## L-System
 
