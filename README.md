@@ -27,3 +27,12 @@ Just a university exercise ^^
 * [Wiki](https://en.wikipedia.org/wiki/Mandelbrot_set)
 * [Binder online](https://mybinder.org/v2/gh/abionics/SomeFractals/HEAD?labpath=mandelbrot_set%2Fmandelbrot_set.ipynb)
 * [Jupyter](mandelbrot_set/mandelbrot_set.ipynb) and [Python](mandelbrot_set/mandelbrot_set.py) codes
+
+## L-System
+
+![lsystem](lsystem/demo.png)
+
+Basic class and usage sample of L-System with some randomization
+
+* [Wiki](https://en.wikipedia.org/wiki/L-system)
+* [Python](lsystem/lsystem.py) code
